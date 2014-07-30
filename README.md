@@ -7,7 +7,7 @@ This is a requirement for [Inferray](https://github.com/jsubercaze/inferray/). H
  
 Original project on Google Code : https://code.google.com/p/stixar-graphlib/
 
-Note that this graph library is an underdog among the large lists of graph library. It contains several very efficient and well implemented not so common algorithms.
+Note that this graph library is an underdog among the large list of graph library. It contains several very efficient and well implemented algorithms.
 
 ### Use with Maven
 
